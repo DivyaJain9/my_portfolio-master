@@ -17,15 +17,13 @@ I am looking for opportunities that will push my skills to work.
 
 # SKILLS
 ## Languages:
-Ruby, JavaScript (ES6), CSS/SCSS, HTML.
+JavaScript (ES6), CSS/SCSS, HTML.
 ## Frameworks:
-Ruby on Rails, React/Redux, Bootstrap.
-## Testing:
-Jest, RSpec, Capybara.
+ React/Redux, Bootstrap.
+## Tools:
+ Git/GitHub, VS Code,Node.js, Atom.
 ## Databases:
-PostgreSQL, SQLite.
-## Other:
-Git, GitHub, Heroku, webpack, npm.
+My SQL, MongoDB.
 
 # Contact me?
 Email: divyajainjaipur@gmail.com
