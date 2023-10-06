@@ -9,7 +9,7 @@ As a Web developer, I expertise in ceating visually appealing, user friendly and
 With Ruby On Rails , I implemented basic OOP principles in Ruby, I designed DB schema based on real-life example, I used MVP to structure backend code, I implemented basic CRUD operations, active Record associations to model real-life system and a RESTful API with proper routes and applied back-end best practices, I sent and received data from a back-end endpoint. I Created tests for new features and models.
 
 ## Remote + Pairing
-Meeting with international people, mentoring students, communicating and collaborating with remote developers, discussing timelines, achievements, and goals in daily stand-ups, allowed me to provide and receive feedback collaboratively and in a constructive manner, develop skills in remote pair-programming, using GitHub, industry-standard git flows.
+Staying curious and dedicated to self improvement help me to strive in this dynamic field. I keep myself up to date with latest technologies in the field, by this way I remain competitive and at the same time I will be able to provide best solutions to my clients and users.
 
 # Who I am?
 I am dedicated and motivated web deveoper with two years of professional experience creating and implementing innovative web solutions.I am proficient in front end and backend technologies with a strong focus on user experience and responsive design. I am adapt at working with cross functional team to deliever high quality projects on time.
