@@ -28,8 +28,8 @@ PostgreSQL, SQLite.
 Git, GitHub, Heroku, webpack, npm.
 
 # Contact me?
-Email: othmanenaamani@gmail.com
-Phone: +213780458241
+Email: divyajainjaipur@gmail.com
+Phone: 6476210090
 [LinkedIn](https://www.linkedin.com/in/othman-namani/) .
 [GitHub](https://github.com/othman-19) .
 [Twitter](https://twitter.com/ONaamani) .
