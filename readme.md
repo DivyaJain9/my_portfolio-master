@@ -12,7 +12,8 @@ With Ruby On Rails , I implemented basic OOP principles in Ruby, I designed DB s
 Meeting with international people, mentoring students, communicating and collaborating with remote developers, discussing timelines, achievements, and goals in daily stand-ups, allowed me to provide and receive feedback collaboratively and in a constructive manner, develop skills in remote pair-programming, using GitHub, industry-standard git flows.
 
 # Who I am?
-I am Othman, and I graduated from Microverse, an online school for web and software development, as a full-stack developer. While at Microverse, I also worked as a student mentor to junior developers, and as a remote developer, which makes me self-discipline, problem-solver, and taking attention to detail.
+I am dedicated and motivated web deveoper with two years of professional experience creating and implementing innovative web solutions.I am proficient in front end and backend technologies with a strong focus on user experience and responsive design. I am adapt at working with cross functional team to deliever high quality projects on time.
+I am looking for opportunities that will push my skills to work.
 
 # SKILLS
 ## Languages:
