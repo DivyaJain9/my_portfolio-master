@@ -3,7 +3,7 @@
 
 # What I do ?
 ## Design + Development
-As a React/Rails developer, I might be building out projects, starting with a back-end API to a fully responsive user interface (UI). I created structured HTML & CSS code, I applied front-end best practices, I created UIs adjusted to given designs. I managed front-end data using a shared state pattern. My work requires a great deal of self-discipline and attention to detail, but that sort of balancing act is part of what makes the job fun for me.
+As a Web developer, I expertise in ceating visually appealing, user friendly and interactive web designs.I built out projects starting with back end API to fully responsive user page. I created structured HTML & CSS code, I applied front-end best practices. Through my projects, I strive to bridge the gap between design and functionality, by ensuring that my websites and web applications are not only esthitically pleasing but at the same time are functional and accessible across various devices. 
 
 ## Back-end
 With Ruby On Rails , I implemented basic OOP principles in Ruby, I designed DB schema based on real-life example, I used MVP to structure backend code, I implemented basic CRUD operations, active Record associations to model real-life system and a RESTful API with proper routes and applied back-end best practices, I sent and received data from a back-end endpoint. I Created tests for new features and models.
