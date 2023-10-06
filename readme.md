@@ -1,5 +1,5 @@
 # [Divya Jain]( https://othman-19.github.io/my_portfolio/)
-## React | Rails full-stack developer
+## Web Developer
 
 # What I do ?
 ## Design + Development
@@ -30,7 +30,6 @@ Email: divyajainjaipur@gmail.com
 Phone: 6476210090
 [LinkedIn](https://www.linkedin.com/in/othman-namani/) .
 [GitHub](https://github.com/othman-19) .
-[Twitter](https://twitter.com/ONaamani) .
 [Portfolio](https://othman-19.github.io/my_portfolio/) .
 
 
